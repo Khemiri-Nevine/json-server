@@ -1,0 +1,24 @@
+{
+     "useres": [
+        {
+            "name": "admin-1",
+            "_id": 1,
+            "role": "admin"
+        },
+     
+     {
+        "name": "admin-1",
+        "_id": 2,
+        "role": "uer" 
+     },
+     {
+         "name": "whatever"
+     }
+    ],
+    "stores": [
+        {
+            "_id": 1,
+            "location": "mit-tn"
+        }
+    ]
+}
